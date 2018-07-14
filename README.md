@@ -1,2 +1,2 @@
 # pysm
-专注于中文的句子对匹配计算
+Chinese sentence match. python实现的中文句子对匹配计算
