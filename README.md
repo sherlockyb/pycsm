@@ -1,7 +1,7 @@
 # pycsm
 python Chinese sentence match
 
-#usege
+# usege
 
 ```py
 from csm import SentenceMatch
